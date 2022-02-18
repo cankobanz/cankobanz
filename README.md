@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cankobanz
 - 👀 Last semester, I took courses about Data Structures & Algorithms, Operating System and Discrete Mathematics.
-- 🌱 I’m currently learning machine learning, deep learning and game development. Check the courses, I follow:  
+- 🌱 I’m currently learning core topics about machine learning, deep learning and game development. Check the courses, I follow:  
 **Machine Learning:** https://www.coursera.org/learn/machine-learning?  
 **Deep Learning:** https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning  
 **Game Development in Unity:** https://www.udemy.com/course/unitycourse2/  
