@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @cankobanz
-- 👀 Last semester, I took courses about Data Structures & Algorithms, Operating System and Discrete Mathematics.
-- 🌱 I’m currently learning core topics about machine learning, deep learning and game development. Check the courses, I follow:  
-**Machine Learning:** https://www.coursera.org/learn/machine-learning?  
-**Deep Learning:** https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning  
-**Game Development in Unity:** https://www.udemy.com/course/unitycourse2/  
+- 👀 Last year, I took the following courses in the university: Data Structures & Algorithms, Operating System and Discrete Mathematics, Machine Learning, Deep Learning, Artificial Intelligence
+- :rocket: This year I am taking: Computer Networking and Bioinformatics
+- 🌱 I’m currently focussing on Synthesizable Molacular by deep generative models. 
+Check the online courses, I follow nowadays:  
+**100 days of code:** https://www.udemy.com/course/100-days-of-code/
+**SQL:** https://www.udemy.com/course/the-complete-sql-bootcamp/
 - 💞️ I’m looking to collaborate on learning new things with study groups.
 - 📫 How to reach me cankoban.ck@gmail.com
 
