@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cankobanz
 - 👀 Last year, I took the following courses in the university: OOP, Data Structures & Algorithms, Operating System and Discrete Mathematics, Machine Learning, Deep Learning, Artificial Intelligence
 - :rocket: This year I am taking: Computer Networking and Bioinformatics
-- 🌱 I’m currently focussing on multi-objective targeted molacule generation by deep generative models.  
+- 🌱 I’m currently focussing on multi-objective targeted molecule generation by deep generative models.  
 - Check the online courses, I follow nowadays:  
 **100 Days of Code:** https://www.udemy.com/course/100-days-of-code/  
 **SQL:** https://www.udemy.com/course/the-complete-sql-bootcamp/
